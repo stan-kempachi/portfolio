@@ -21,4 +21,4 @@ Projets personnels construits et exploités en conditions réelles (CI/CD, servi
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/stan-bruyere) · adm.standev@gmail.com
+adm.standev@gmail.com
