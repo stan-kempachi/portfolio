@@ -20,4 +20,4 @@ Projets personnels construits et exploités en conditions réelles (CI/CD, servi
 
 ## Contact
 
-adm.standev@gmail.com
+stan@karakuri.studio
