@@ -1,6 +1,6 @@
-# Stan Bruyère — Portfolio
+# Stan — Portfolio
 
-Développeur Python, spécialiste automatisation et DevOps. Freelance.
+Développeur Python, spécialiste automatisation et DevOps. Freelance (Karakuri Studio).
 Projets personnels construits et exploités en conditions réelles (CI/CD, services systemd, monitoring), d'abord sur un Raspberry Pi 5 auto-hébergé, en cours de migration vers le cloud.
 
 ## Projets
